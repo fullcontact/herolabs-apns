@@ -10,7 +10,7 @@
   :dependencies [[commons-codec "1.6"]
                  [clj-json "0.5.0"]
                  [midje "1.5.1"]
-                 [io.netty/netty-all "4.0.9.Final"]
+                 [io.netty/netty-all "4.1.6.Final"]
                  [org.clojure/tools.logging "0.2.6"]
                  [org.slf4j/slf4j-api "1.7.5"]
                  [ch.qos.logback/logback-core "1.0.13"]
